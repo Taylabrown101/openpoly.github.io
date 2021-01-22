@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "Restricted access"
+AuthUserFile "\Users\tayla\OneDrive\Documents\BIT607\HaukaiA3\web.htpasswd"
+Require valid-user
